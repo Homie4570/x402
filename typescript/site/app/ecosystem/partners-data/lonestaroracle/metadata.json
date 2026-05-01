@@ -1,0 +1,7 @@
+{
+  "name": "LoneStarOracle",
+  "description": "16 live x402-enabled API services on Base mainnet accepting USDC micropayments. Covers crypto due diligence (TokenScope), on-chain wallet intel (ChainScout, WalletRisk, ContractCheck), financial markets (EquityScope, OptionsFlow, InsiderFlow, PortfolioRisk, MacroPulse, EarningsCalendar), energy markets with refined products (CrownBlock), real estate (RealEstatePulse), agricultural commodities (AgriPulse), content and news (ContentForge, NewsSentiment, WeatherOracle), and an autonomous coding agent (Floyd). All services include Bazaar discovery metadata.",
+  "logoUrl": "/logos/lonestaroracle.png",
+  "websiteUrl": "https://lonestaroracle.xyz",
+  "category": "Services/Endpoints"
+}
